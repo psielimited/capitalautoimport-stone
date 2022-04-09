@@ -11,7 +11,7 @@
     "handlebars": "4.0.6",
     "keystone": "4.0.0-beta.5",
     "lodash": "^4.13.1",
-    "moment": "2.17.1",
+    "moment": "2.29.2",
     "nightmare": "^2.10.0",
     "nightmare-upload": "^0.1.1",
     "node-cron": "^1.2.1",
